@@ -12,9 +12,9 @@ venv/
 .streamlit/secrets.toml
 streamlit/.cache/
 
-# Data caches
-/data/*.csv
-/data/*.pkl
+# # Data caches
+# /data/*.csv
+# /data/*.pkl
 
 # OS files
 .DS_Store
