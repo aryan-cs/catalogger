@@ -1,0 +1,12 @@
+streamlit
+pandas
+openreview-py
+sentence-transformers
+scikit-learn
+google-generativeai
+openai
+numpy
+tqdm
+googlesearch-python
+pypdf
+requests
